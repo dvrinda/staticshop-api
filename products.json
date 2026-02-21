@@ -33,10 +33,10 @@
       "count": 2,
       "inventoryValue": 60810.64
     },
-     "electronics": {
-    "count": 10,
-    "inventoryValue": 220630.50
-  
-     }
+
+    "electronics": {
+      "count": 10,
+      "inventoryValue": 220630.50
+    }
   }
 }
